@@ -1,6 +1,7 @@
   
 region = "us-east-2"
 public_key = "***************"
+password = "ind9hcvniosbv"
 name = "techlab"
 
 # VPC
